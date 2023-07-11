@@ -4,7 +4,7 @@ Este repositorio alberga un proyecto dedicado al diagnóstico de enfermedades de
 
 ## Conjunto de datos
 
-El conjunto de datos utilizado para este proyecto es altamente variado y detallado, con 70000 imágenes de plantas tanto saludables como enfermas. Las enfermedades varían desde la mancha bacteriana en los tomates hasta la costra de manzana, ofreciendo un amplio espectro de condiciones para entrenar a nuestro modelo.
+El conjunto de datos utilizado para este proyecto es altamente variado y detallado, con imágenes de plantas tanto saludables como enfermas. Las enfermedades varían desde la mancha bacteriana en los tomates hasta la costra de manzana, ofreciendo un amplio espectro de condiciones para entrenar a nuestro modelo.
 
 ## Modelo
 
